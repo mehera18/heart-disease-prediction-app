@@ -5,4 +5,6 @@ Extract the above file , open with android Studio
 Select the desired virtual device and run the application
 # Note
 In the java code , replace the server url with your own Server URL
-#HappyCoding
+#FastApi(optional)
+Before running the application on android studio , Run the application on FastApi or if your are choosing services like render and ngrok you can directly paste the server url 
+in java code #HappyCoding
